@@ -11,6 +11,8 @@ and it should automatically open in your default web-browser.
 
 *REQUIRES PYTHON INSTALLATION.
 
+*ENABLING DATA CACHING WILL CAUSE ERRORS UPON SWITCHING FOLDERS.
+
 *Includes a bash version for Linux users.
 
 *OPTIONAL: One line of code will allow you to run a python installation via shortcut if you prefer that way.
