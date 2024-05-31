@@ -13,6 +13,8 @@ and it should automatically open in your default web-browser.
 
 *Includes a bash version for Linux users.
 
+*OPTIONAL: One line of code will allow you to run a python installation via shortcut if you prefer that way.
+
 *The line of code allowing you to access the build from another computer technically works,
 then stalls completely.
 Just use itch.io at that point.
