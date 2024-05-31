@@ -11,7 +11,8 @@ and it should automatically open in your default web-browser.
 
 *REQUIRES PYTHON INSTALLATION.
 
-*ENABLING DATA CACHING WILL CAUSE ERRORS UPON SWITCHING FOLDERS.
+*TURN OFF "DATA CACHING" WHEN RUNNING TEST BUILDS. Otherwise you'll get an error when attempting to run another build.
+If it's too late, you can keep applying updates to the build you're locked into.
 
 *Includes a bash version for Linux users.
 
