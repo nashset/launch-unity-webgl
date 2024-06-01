@@ -11,7 +11,7 @@ and it should automatically open in your default web-browser.
 
 *REQUIRES PYTHON INSTALLATION.
 
-*"Unable to parse Build/MyGame.framework.js.gz!" - Enable "Decompression Fallback" when making test builds. This will make the build size larger, but it should work. Just remember to turn if off when making an actual release build.
+*"Unable to parse Build/MyGame.framework.js.gz!" - Enable "Decompression Fallback" when making test builds. This will make the build size larger, but it should work. Just remember to turn it off when making an actual release build.
 ![decompressionFallbacj](https://github.com/nashset/launch-unity-webgl/assets/160681001/1409bbe7-e08e-470f-ba6e-4768ad96e7fc)
 *Hit "Ctrl + Shift + R" to hard-reload the build.
 
