@@ -11,8 +11,7 @@ and it should automatically open in your default web-browser.
 
 *REQUIRES PYTHON INSTALLATION.
 
-"Unable to parse Build/MyGame.framework.js.gz!"
-*Enable "Decompression Fallback" when making test builds. This will make the build size larger, but it should work. Just remember to turn if off when making an actual release build.
+*"Unable to parse Build/MyGame.framework.js.gz!" - Enable "Decompression Fallback" when making test builds. This will make the build size larger, but it should work. Just remember to turn if off when making an actual release build.
 
 *Includes a bash version for Linux users.
 
