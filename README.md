@@ -11,8 +11,8 @@ and it should automatically open in your default web-browser.
 
 *REQUIRES PYTHON INSTALLATION.
 
-*TURN OFF "DATA CACHING" WHEN RUNNING TEST BUILDS. Otherwise you'll get an error when attempting to run another build.
-If it's too late, you can keep applying updates to the build you're locked into.
+>"Unable to parse Build/MyGame.framework.js.gz!"
+*Enable "Decompression Fallback" when making test builds. This will make the build size larger, but it should work. Just remember to turn if off when making an actual release build.
 
 *Includes a bash version for Linux users.
 
